@@ -18,7 +18,10 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-
+Future improvements to enhance the app’s functionality could include:
+1. Adding a search bar to let users find games by name, genre, or description.
+2. Implementing hover effects to reveal additional game details for a more interactive browsing experience.
+3. Incorporating countdown timers to display the remaining time for each game’s funding deadline. These features would make the app more engaging and user-friendly.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
